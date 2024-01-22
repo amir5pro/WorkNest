@@ -16,11 +16,12 @@ function Landing() {
             "Discover Your <span>Nest</span>, Find Your <span>Success</span>"
           </h1>
           <p>
-            Welcome to Werknest, where your career takes flight! Whether you are
-            a company looking to fill a position or an individual seeking the
-            perfect job match, our diverse range of opportunities and
-            user-friendly platform can help you achieve your goals. Join our
-            community of driven professionals and unlock your full potential.
+            Welcome to Werknest, the ultimate platform for companies to post job
+            openings and track application statistics. Whether you're looking to
+            fill a position or monitor the number of applications received and
+            pending, our user-friendly platform has you covered. Join our
+            community of industry professionals and take your recruitment
+            process to the next level.
           </p>
           <div>
             <Link to="/register" className="btn register-link">

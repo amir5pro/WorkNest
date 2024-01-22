@@ -3,6 +3,7 @@ import Wrapper from "../assets/wrappers/ErrorPage";
 import img from "../assets/images/nestNotFound.svg";
 const JobError = () => {
   const error = useRouteError();
+
   if (error.status === 404) {
     return (
       <Wrapper>

@@ -70,9 +70,9 @@ const Wrapper = styled.aside`
     .active {
       color: var(--primary-500);
     }
-    /* .pending {
+    .pending {
       background: var(--background-color);
-    } */
+    }
   }
 `;
 export default Wrapper;
